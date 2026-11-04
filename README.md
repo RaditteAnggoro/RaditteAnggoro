@@ -47,8 +47,7 @@ the user decides whether anything should be moved to Trash.
 
 ### [Skills for Lazy Developer](https://github.com/RaditteAnggoro/skill-for-lazy-developer)
 
-Eight practical Codex workflows I assembled for debugging, implementation,
-architecture, browser diagnostics, planning, release review, and verification.
+Automatic Codex skill routing with focused workflows for building, debugging, architecture, planning, and verification.
 
 `Codex` · `agent skills` · `Python` · `software engineering` · `verification`
 
