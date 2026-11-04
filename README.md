@@ -7,7 +7,7 @@
 [![Profile license: MIT](https://img.shields.io/badge/profile%20license-MIT-blue.svg)](LICENSE)
 
 My day-to-day work is in financial platforms, core banking, and multifinance systems.
-My background started with IT support and application analysis, then moved through
+My background application analysis, then moved through
 full-stack development and core-banking responsibilities. I mainly work around Java,
 Oracle Database, PostgreSQL, and system architecture.
 
