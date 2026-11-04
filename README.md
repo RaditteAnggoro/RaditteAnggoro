@@ -6,13 +6,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raditte-anggoro-a195b3112/)
 [![Profile license: MIT](https://img.shields.io/badge/profile%20license-MIT-blue.svg)](LICENSE)
 
-I'm a developer who enjoys using spare time to build and learn. These repositories
-are personal projects alongside my day-to-day work: some are practical tools, some
+My day-to-day work is in financial platforms, core banking, and multifinance systems.
+My background started with IT support and application analysis, then moved through
+full-stack development and core-banking responsibilities. I mainly work around Java,
+Oracle Database, PostgreSQL, and system architecture.
+
+Outside work, I'm still an ordinary developer who enjoys using spare time to build
+and learn. These repositories are personal projects: some are practical tools, some
 are larger experiments, and all of them can continue to improve.
 
-I'm not trying to present myself as an expert in everything shown here. This profile
-is simply an honest record of ideas I wanted to explore, problems I tried to solve,
-and lessons I picked up along the way.
+The different technologies here do not mean I am an expert in every stack. This
+profile is simply an honest record of ideas I wanted to explore, problems I tried to
+solve, and lessons I picked up along the way.
 
 ## Featured work
 
