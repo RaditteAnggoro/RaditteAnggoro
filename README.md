@@ -29,6 +29,14 @@ The project also includes Report Studio, a visual report designer with native re
 
 `TypeScript` · `React` · `Vite` · `Playwright` · `visual editor`. `report editor`
 
+### [Skills for Lazy Developer](https://github.com/RaditteAnggoro/skill-for-lazy-developer)
+
+A collection of engineering workflows designed to make AI coding assistants more useful without requiring users to remember individual commands.
+
+It explores automatic skill routing, debugging, architecture analysis, UI development, verification, project memory, and workflow orchestration across supported agent environments.
+
+`Codex` · `Claude` · `Deepseek` · `agent skills` · `Python` · `software engineering` · `verification`
+
 ### [One UMS Portal](https://github.com/RaditteAnggoro/one-ums-portal)
 
 A personal project exploring a unified messaging platform with multi-stage approvals,
@@ -44,14 +52,6 @@ A local-first device maintenance tool written in Go. It analyzes storage, duplic
 The project focuses on privacy, transparent diagnostics, and safe, user-controlled maintenance.
 
 `Go` · `CLI` · `local-first` · `privacy` · `device maintenance`
-
-### [Skills for Lazy Developer](https://github.com/RaditteAnggoro/skill-for-lazy-developer)
-
-A collection of engineering workflows designed to make AI coding assistants more useful without requiring users to remember individual commands.
-
-It explores automatic skill routing, debugging, architecture analysis, UI development, verification, project memory, and workflow orchestration across supported agent environments.
-
-`Codex` · `agent skills` · `Python` · `software engineering` · `verification`
 
 ## What you can expect here
 
