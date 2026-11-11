@@ -23,11 +23,11 @@ solve, and lessons I picked up along the way.
 
 ### [React UI/UX Tool](https://github.com/RaditteAnggoro/react-uiux-tool)
 
-A side project exploring how a visual editor can work with real React source. It
-inspects JSX/TSX, previews supported applications, and writes validated drag-and-drop
-changes back to normal source files for Git review.
+A local-first visual editor that works with real React source code. It allows users to inspect components, make supported drag-and-drop changes, and save validated updates back to JSX/TSX files.
 
-`TypeScript` · `React` · `Vite` · `Playwright` · `visual editor`
+The project also includes Report Studio, a visual report designer with native report editing, export options, and experimental support for YRF files.
+
+`TypeScript` · `React` · `Vite` · `Playwright` · `visual editor`. `report editor`
 
 ### [One UMS Portal](https://github.com/RaditteAnggoro/one-ums-portal)
 
@@ -39,15 +39,17 @@ is simulated by default; live messaging providers are not presented as connected
 
 ### [Agent Doctor For Your Devices](https://github.com/RaditteAnggoro/agent-doctor-for-your-devices)
 
-A small local Go CLI and agent-skill experiment for explainable device maintenance.
-It reviews junk candidates, duplicates, applications, and performance evidence before
-the user decides whether anything should be moved to Trash.
+A local-first device maintenance tool written in Go. It analyzes storage, duplicate files, installed applications, and performance indicators, then explains its findings before the user takes action.
+
+The project focuses on privacy, transparent diagnostics, and safe, user-controlled maintenance.
 
 `Go` · `CLI` · `local-first` · `privacy` · `device maintenance`
 
 ### [Skills for Lazy Developer](https://github.com/RaditteAnggoro/skill-for-lazy-developer)
 
-Automatic Codex skill routing with focused workflows for building, debugging, architecture, planning, and verification.
+A collection of engineering workflows designed to make AI coding assistants more useful without requiring users to remember individual commands.
+
+It explores automatic skill routing, debugging, architecture analysis, UI development, verification, project memory, and workflow orchestration across supported agent environments.
 
 `Codex` · `agent skills` · `Python` · `software engineering` · `verification`
 
